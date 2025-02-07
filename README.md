@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Surendra</h1>
-<h3 align="center">A passionate frontend developer, Data Analyst and Backend enthusiast, from India</h3>
+<!-- <h3 align="center">A passionate frontend developer, Data Analyst and Backend enthusiast, from India</h3> -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineer;Backend+Developer;Data +Science+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msssurendra&label=Profile%20views&color=0e75b6&style=flat" alt="msssurendra" /> </p>
 
